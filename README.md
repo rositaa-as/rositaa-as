@@ -3,12 +3,12 @@
 ### Hi I'm Rosa Avila 👋👩‍💻, Welcome to my profile!
 ```javascript
 const Rosita = {
-    pronouns: "She" ,
-    age = 19
-    occupation = "Student"
+    pronouns: "She",
+    age = 19 ,
+    occupation = "Student" ,
     askMeAbout: ["web dev", "CM", "Graphic Desing", "game"],
-    preferred_langs = ["Python", "C++"]
-    hobbies = ["Paint with watercolor", "Photography"]
+    preferred_langs = ["Python", "C++"],
+    hobbies = ["Paint with watercolor", "Photography"],
 };
 ```
     
