@@ -11,8 +11,7 @@ const Rosita = {
     hobbies = ["Paint with watercolor", "Photography"],
 };
 ```
-
-    ![descarga](https://user-images.githubusercontent.com/99160117/182516520-f1e165e0-3e75-436c-975b-6ab9aa72aecd.gif)
+![descarga](https://user-images.githubusercontent.com/99160117/182516884-c8b89bc4-59a3-4606-9c3e-391223a2ce73.gif)
 
     
 <!--
