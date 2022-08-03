@@ -1,13 +1,18 @@
 ![Rosa avila sandoval](https://user-images.githubusercontent.com/99160117/182512755-96b90bbc-7b0c-4fe8-a59d-fa38b3628faa.png)
 
 ### Hi I'm Rosa Avila 👋👩‍💻, Welcome to my profile!
-
-class Rositaa.as
+```javascript
+const Rosita = {
+    pronouns: "She" ,
     age = 19
     occupation = "Student"
+    askMeAbout: ["web dev", "CM", "Graphic Desing", "game"],
     preferred_langs = ["Python", "C++"]
     hobbies = ["Paint with watercolor", "Photography"]
-
+};
+```
+    
+    
 <!--
 **rositaa-as/rositaa-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +26,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql", "oracle"],
 -->
