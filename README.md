@@ -4,7 +4,7 @@
 ```javascript
 const Rosita = {
     pronouns: "She",
-    age = 19 ,
+    age = 19,
     occupation = "Student" ,
     askMeAbout: ["web dev", "CM", "Graphic Desing", "game"],
     preferred_langs = ["Python", "C++"],
