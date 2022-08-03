@@ -1,4 +1,7 @@
-### Hi there 👋
+![Rosa avila sandoval](https://user-images.githubusercontent.com/99160117/182512755-96b90bbc-7b0c-4fe8-a59d-fa38b3628faa.png)
+
+### Hi I'm Rosa Avila 👋👩‍💻
+
 
 <!--
 **rositaa-as/rositaa-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
