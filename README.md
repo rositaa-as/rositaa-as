@@ -2,6 +2,11 @@
 
 ### Hi I'm Rosa Avila 👋👩‍💻, Welcome to my profile!
 
+class Rositaa.as
+    age = 19
+    occupation = "Student"
+    preferred_langs = ["Python", "C++"]
+    hobbies = ["Paint with watercolor", "Photography"]
 
 <!--
 **rositaa-as/rositaa-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
