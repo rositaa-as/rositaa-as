@@ -1,6 +1,11 @@
 ![Rosa avila sandoval](https://user-images.githubusercontent.com/99160117/182512755-96b90bbc-7b0c-4fe8-a59d-fa38b3628faa.png)
 
-### Hi I'm Rosa Avila 👋👩‍💻, Welcome to my profile!
+<p align="center"> Hi I'm Rosa Avila 👋👩‍💻, Welcome to my profile!</p>
+
+
+<img align="right" width=135 src="/img/icon.jpg
+">
+
 ```javascript
 const Rosita = {
     pronouns: "She",
@@ -11,21 +16,14 @@ const Rosita = {
     hobbies = ["Paint with watercolor", "Photography"],
 };
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rositaa-as&show_icons=true&theme=synthwave)
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<p align="center"><img alt="Rositaa-as's GitHub stats" height=130 src="https://github-readme-stats.vercel.app/api?username=rositaa-as&show_icons=true&theme=synthwave"><img alt="Most Used Languages" height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rositaa-as&layout=compact&theme=synthwave"></p>
 
-<!--
-**rositaa-as/rositaa-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+
+
+
+
+<!--**rositaa-as/rositaa-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
