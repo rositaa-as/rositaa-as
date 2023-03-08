@@ -3,7 +3,7 @@
 <p align="center"> Hi I'm Rosa Avila 👋👩‍💻, Welcome to my profile!</p>
 
 
-<img align="right" width=180 src="/img/icon.jpg">
+<img align="right" width=160 src="/img/icon.jpg">
 
 ```javascript
 const Rosita = {
