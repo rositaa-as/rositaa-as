@@ -3,8 +3,7 @@
 <p align="center"> Hi I'm Rosa Avila 👋👩‍💻, Welcome to my profile!</p>
 
 
-<img align="right" width=135 src="/img/icon.jpg
-">
+<img align="right" width=185 src="/img/icon.jpg">
 
 ```javascript
 const Rosita = {
@@ -16,12 +15,9 @@ const Rosita = {
     hobbies = ["Paint with watercolor", "Photography"],
 };
 ```
-<p align="center"><img alt="Rositaa-as's GitHub stats" height=130 src="https://github-readme-stats.vercel.app/api?username=rositaa-as&show_icons=true&theme=synthwave"><img alt="Most Used Languages" height=130 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rositaa-as&layout=compact&theme=synthwave"></p>
+<p align="center"><img alt="Rositaa-as's GitHub stats" height=170 src="https://github-readme-stats.vercel.app/api?username=rositaa-as&show_icons=true&theme=synthwave"><img alt="Most Used Languages" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rositaa-as&layout=compact&theme=synthwave"></p>
 
     
-
-
-
 
 <!--**rositaa-as/rositaa-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
