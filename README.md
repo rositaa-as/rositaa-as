@@ -11,9 +11,7 @@ const Rosita = {
     hobbies = ["Paint with watercolor", "Photography"],
 };
 ```
-![descarga](https://user-images.githubusercontent.com/99160117/182516884-c8b89bc4-59a3-4606-9c3e-391223a2ce73.gif)
-
-    
+**![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rositaa-as&count_private=true)**
 <!--
 **rositaa-as/rositaa-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
