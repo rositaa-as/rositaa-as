@@ -18,10 +18,6 @@ const Rosita = {
 <p align="center"><img alt="Rositaa-as's GitHub stats" height=170 src="https://github-readme-stats.vercel.app/api?username=rositaa-as&show_icons=true&theme=synthwave"><img alt="Most Used Languages" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rositaa-as&layout=compact&theme=synthwave"></p>
 
  ****
- ## Proyectos
- 
- * [Creación del proyecto y prototipo del bot "Smartschool"](https://github.com/rositaa-as/Smartschool)
- * [Creación de la identidad de la marca "Amigurimis"](https://github.com/rositaa-as/Amigurimis)
 
 <!--**rositaa-as/rositaa-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
