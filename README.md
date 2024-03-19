@@ -8,7 +8,7 @@
 ```javascript
 const Rosita = {
     pronouns: "She",
-    age = "20" ,
+    age = "21" ,
     occupation = "Student" ,
     askMeAbout: ["web dev", "CM", "Graphic Desing", "game"],
     preferred_langs = ["Python", "C++"],
